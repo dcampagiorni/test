@@ -1,0 +1,258 @@
+Acquisizione dati (Step 2), relativo al caricamento numero 9 del 07/12/2017, scarico dati del 07/12/2017, Modello GIS relativo ai dati del 31/10/2017
+ 
+--------------------------------> Conteggio oggetti presenti nell'area di Staging
+DTP: AN00       Numero Punti Operativi:189
+DTP: AN00       Numero Sezioni di Linea:195
+DTP: BA00       Numero Punti Operativi:133
+DTP: BA00       Numero Sezioni di Linea:140
+DTP: BO00       Numero Punti Operativi:185
+DTP: BO00       Numero Sezioni di Linea:218
+DTP: CA00       Numero Punti Operativi:63
+DTP: CA00       Numero Sezioni di Linea:63
+DTP: DG00       Numero Sezioni di Linea:1
+DTP: FI00       Numero Punti Operativi:280
+DTP: FI00       Numero Sezioni di Linea:328
+DTP: GE00       Numero Punti Operativi:140
+DTP: GE00       Numero Sezioni di Linea:164
+DTP: MI00       Numero Punti Operativi:334
+DTP: MI00       Numero Sezioni di Linea:396
+DTP: NA00       Numero Punti Operativi:198
+DTP: NA00       Numero Sezioni di Linea:228
+DTP: PA00       Numero Punti Operativi:202
+DTP: PA00       Numero Sezioni di Linea:206
+DTP: RC00       Numero Punti Operativi:164
+DTP: RC00       Numero Sezioni di Linea:171
+DTP: RM00       Numero Punti Operativi:219
+DTP: RM00       Numero Sezioni di Linea:244
+DTP: TO00       Numero Punti Operativi:270
+DTP: TO00       Numero Sezioni di Linea:303
+DTP: TS00       Numero Punti Operativi:83
+DTP: TS00       Numero Sezioni di Linea:97
+DTP: VE00       Numero Punti Operativi:138
+DTP: VE00       Numero Sezioni di Linea:163
+DTP: VR00       Numero Punti Operativi:143
+DTP: VR00       Numero Sezioni di Linea:158
+ 
+ 
+--------------------------------> Conteggio oggetti dell'area di Staging che verranno caricati nell'area di lavorazione del RINF
+DTP: AN00       Numero Punti Operativi:189
+DTP: AN00       Numero Sezioni di Linea:195
+DTP: BA00       Numero Punti Operativi:132
+DTP: BA00       Numero Sezioni di Linea:139
+DTP: BO00       Numero Punti Operativi:180
+DTP: BO00       Numero Sezioni di Linea:214
+DTP: CA00       Numero Punti Operativi:63
+DTP: CA00       Numero Sezioni di Linea:63
+DTP: FI00       Numero Punti Operativi:275
+DTP: FI00       Numero Sezioni di Linea:323
+DTP: GE00       Numero Punti Operativi:139
+DTP: GE00       Numero Sezioni di Linea:164
+DTP: MI00       Numero Punti Operativi:333
+DTP: MI00       Numero Sezioni di Linea:394
+DTP: NA00       Numero Punti Operativi:196
+DTP: NA00       Numero Sezioni di Linea:224
+DTP: PA00       Numero Punti Operativi:201
+DTP: PA00       Numero Sezioni di Linea:206
+DTP: RC00       Numero Punti Operativi:164
+DTP: RC00       Numero Sezioni di Linea:171
+DTP: RM00       Numero Punti Operativi:215
+DTP: RM00       Numero Sezioni di Linea:236
+DTP: TO00       Numero Punti Operativi:269
+DTP: TO00       Numero Sezioni di Linea:303
+DTP: TS00       Numero Punti Operativi:79
+DTP: TS00       Numero Sezioni di Linea:94
+DTP: VE00       Numero Punti Operativi:138
+DTP: VE00       Numero Sezioni di Linea:163
+DTP: VR00       Numero Punti Operativi:143
+DTP: VR00       Numero Sezioni di Linea:158
+ 
+ 
+--------------------------------> Conteggio oggetti presenti nell'area controllati che devono essere eliminati perché non più in esercizio
+ 
+ 
+--------------------------------> Elenco oggetti presenti nell'area controllati che devono essere eliminati perché non più in esercizio
+ 
+--------------------------------> Caricamento PUNTI OPERATIVI
+Totale PUNTI OPERATIVI da caricare:     2659
+ 
+--------------------------------> Caricamento PUNTI OPERATIVI Border Point
+Totale PUNTI OPERATIVI Border Point da caricare:     57
+ 
+--------------------------------> Caricamento PARAMETRO CODICE TAF/TAP DI PO
+Totale VALORI PARAMETRO CODICE TAF/TAP DI PO da caricare: 2714
+ 
+--------------------------------> Caricamento BINARI DI CIRCOLAZIONE DEI PO
+Totale BINARI DI CIRCOLAZIONE DEI PO da caricare: 7496
+ 
+--------------------------------> Caricamento BINARI DI FERMATA DEI PO
+Totale BINARI DI FERMATA DEI PO da caricare: 1774
+ 
+--------------------------------> Caricamento RELAZIONE TRA BINARI E PO
+Totale RELAZIONE TRA BINARI E PO da caricare: 9270
+ 
+--------------------------------> Caricamento DICHIARAZIONI BINARI DI CIRCOLAZIONE DEI PO
+Totale DICHIARAZIONI BINARI DI CIRCOLAZIONE DEI PO da caricare: 7954
+ 
+--------------------------------> Caricamento DICHIARAZIONI BINARI DI FERMATA DEI PO
+Totale DICHIARAZIONI BINARI DI FERMATA DEI PO da caricare: 1770
+ 
+--------------------------------> Caricamento GALLERIE BINARI DI CIRCOLAZIONE DEI PO
+Totale GALLERIE BINARI DI CIRCOLAZIONE DEI PO da caricare: 177
+ 
+--------------------------------> Caricamento RELAZIONE GALLERIE-BINARI DI CIRCOLAZIONE DEI PO
+Totale RELAZIONE GALLERIE-BINARI DI CIRCOLAZIONE DEI PO da caricare: 268
+ 
+--------------------------------> Caricamento RELAZIONE GALLERIE-BINARI DI CIRCOLAZIONE DEI PO delle GALLERIE SECONDARIE COME BINARI DELLA GALLERIA PRINCIPALE
+Totale RELAZIONE GALLERIE-BINARI DI CIRCOLAZIONE DEI PO da caricare: 8
+ 
+--------------------------------> Caricamento DICHIARAZIONI GALLERIE DEI BINARI DI CIRCOLAZIONE DEI PO
+Totale DICHIARAZIONI GALLERIE DEI BINARI DI CIRCOLAZIONE DEI PO da caricare: 151
+ 
+--------------------------------> Caricamento MARCIAPIEDI BINARI DI CIRCOLAZIONE DEI PO
+Totale MARCIAPIEDI BINARI DI CIRCOLAZIONE DEI PO da caricare: 4668
+ 
+--------------------------------> Caricamento BINARI DI SERVIZIO DEI PO
+Totale BINARI DI SERVIZIO DEI PO da caricare: 4773
+ 
+--------------------------------> Caricamento DICHIARAZIONI BINARI SECONDARI DEI PO
+Totale DICHIARAZIONI BINARI SECONDARI DEI PO da caricare: 1795
+ 
+-------------------------------->  Caricamento GALLERIE BINARI SECONDARI DEI PO
+Totale GALLERIE BINARI SECONDARI DEI PO da caricare: 0
+ 
+--------------------------------> Caricamento RELAZIONE GALLERIE-BINARI SECONDARI DEI PO
+Totale RELAZIONE GALLERIE-BINARI SECONDARI DEI PO da caricare: 0
+ 
+--------------------------------> Caricamento RELAZIONE GALLERIE-BINARI SECONDARI DEI PO delle GALLERIE SECONDARIE COME BINARI DELLA GALLERIA PRINCIPALE
+Totale RELAZIONE GALLERIE-BINARI SECONDARI DEI PO da caricare: 0
+ 
+--------------------------------> Caricamento DICHIARAZIONI GALLERIE DEI BINARI SECONDARI DEI PO
+Totale DICHIARAZIONI GALLERIE DEI BINARI SECONDARI DEI PO da caricare: 0
+ 
+ 
+--------------------------------> Caricamento PARAMETRO CATEGORIA TEN DEL BINARIO DI PO
+Totale VALORI PARAMETRO CATEGORIA TEN DEL BINARIO DI PO da caricare: 8779
+ 
+--------------------------------> Caricamento PARAMETRO CATEGORIA LINEA DEL BINARIO DI PO
+Totale VALORI PARAMETRO CATEGORIA LINEA DEL BINARIO DI PO da caricare: 949
+ 
+--------------------------------> Caricamento PARAMETRO CATEGORIA LINEA DEL BINARIO DI FERMATA DI PO
+Totale VALORI PARAMETRO CATEGORIA LINEA DEL BINARIO DI FERMATA DI PO da caricare: 130
+ 
+--------------------------------> Caricamento PARAMETRO CATEGORIA TEN DEL MARCIAPIEDE
+Totale VALORI PARAMETRO CATEGORIA TEN DEL MARCIAPIEDE da caricare: 4275
+ 
+--------------------------------> Caricamento PARAMETRO CATEGORIA TEN DEL BINARIO DI SD
+Totale VALORI PARAMETRO CATEGORIA TEN DEL BINARIO DI SD da caricare: 1798
+ 
+   
+--------------------------------> Elenco Punti Operativi e Sezioni di Linea non acquisiti   
+   
+   
+   
+--------------------------------> Caricamento SEZIONI DI LINEA
+Totale SEZIONI DI LINEA da caricare: 3047
+ 
+--------------------------------> Caricamento BINARI DI CIRCOLAZIONE DELLE SEZIONI DI LINEA
+Totale BINARI DI CIRCOLAZIONE DELLE SEZIONI DI LINEA da caricare: 4528
+ 
+--------------------------------> Caricamento DICHIARAZIONI BINARI DI CIRCOLAZIONE DELLE SEZIONI DI LINEA, VISTA INFRASTRUTTURA
+Totale DICHIARAZIONI BINARI DI CIRCOLAZIONE DELLE SEZIONI DI LINEA, VISTA INFRASTRUTTURA da caricare: 3995
+ 
+--------------------------------> Caricamento DICHIARAZIONI BINARI DI CIRCOLAZIONE DELLE SEZIONI DI LINEA, VISTA ENERGIA
+Totale DICHIARAZIONI BINARI DI CIRCOLAZIONE DELLE SEZIONI DI LINEA, VISTA ENERGIA da caricare: 4054
+ 
+--------------------------------> Caricamento DICHIARAZIONI BINARI DI CIRCOLAZIONE DELLE SEZIONI DI LINEA, VISTA CONTROLLO E SEGNALAMENTO
+Totale DICHIARAZIONI BINARI DI CIRCOLAZIONE DELLE SEZIONI DI LINEA, VISTA CONTROLLO E SEGNALAMENTO da caricare: 4021
+ 
+--------------------------------> Caricamento GALLERIE BINARI DI CIRCOLAZIONE DELLE SdL
+Totale GALLERIE BINARI DI CIRCOLAZIONE DELLE SdL da caricare: 1569
+ 
+--------------------------------> Caricamento RELAZIONE GALLERIE-BINARI DI CIRCOLAZIONE DELLE SdL
+Totale RELAZIONE GALLERIE-BINARI DI CIRCOLAZIONE DELLE SdL da caricare: 2032
+ 
+--------------------------------> Caricamento RELAZIONE GALLERIE-BINARI DI CIRCOLAZIONE DELLE SdL delle GALLERIE SECONDARIE COME BINARI DELLA GALLERIA PRINCIPALE
+Totale RELAZIONE GALLERIE-BINARI DI CIRCOLAZIONE DELLE SdL delle GALLERIE SECONDARIE COME BINARI DELLA GALLERIA PRINCIPALE: 44
+ 
+--------------------------------> Caricamento GALLERIE DIRAMATE DELLE SdL
+Totale GALLERIE DIRAMATE DELLE SdL da caricare: 0
+ 
+--------------------------------> Caricamento DICHIARAZIONI GALLERIE DEI BINARI DI CIRCOLAZIONE DELLE SEZIONI DI LINEA
+Totale DICHIARAZIONI GALLERIE DEI BINARI DI CIRCOLAZIONE DELLE SEZIONI DI LINEA da caricare: 1367
+ 
+--------------------------------> Caricamento PROFILO DI GRADIENTE DEI BINARI DI CIRCOLAZIONE DELLE SdL
+Totale PROFILO DI GRADIENTE DEI BINARI DI CIRCOLAZIONE DELLE SdL da caricare: 37735
+ 
+--------------------------------> Caricamento PARAMETRO CATEGORIA LINEA DELLE SEZIONI DI LINEA, VISTA INFRASTRUTTURA
+Totale VALORI PARAMETRO CATEGORIA LINEA DELLE SEZIONI DI LINEA, VISTA INFRASTRUTTURA da caricare: 357
+ 
+--------------------------------> Caricamento PARAMETRO CAPACITA CARICO DELLE SEZIONI DI LINEA, VISTA INFRASTRUTTURA
+Totale VALORI PARAMETRO CAPACITA CARICO DELLE SEZIONI DI LINEA, VISTA INFRASTRUTTURA da caricare: 280
+ 
+--------------------------------> Caricamento PARAMETRO PROFILO CASSE MOBILI DELLE SEZIONI DI LINEA, VISTA INFRASTRUTTURA
+Totale VALORI PARAMETRO PROFILO CASSE MOBILI DELLE SEZIONI DI LINEA, VISTA INFRASTRUTTURA da caricare: 3580
+ 
+--------------------------------> Caricamento PARAMETRO PROFILO SEMI RIMORCHI DELLE SEZIONI DI LINEA, VISTA INFRASTRUTTURA
+Totale VALORI PARAMETRO PROFILO SEMI RIMORCHI DELLE SEZIONI DI LINEA, VISTA INFRASTRUTTURA da caricare: 3526
+ 
+--------------------------------> Caricamento PARAMETRO FUNZIONI GSM-R FACOLTATIVE DELLE SEZIONI DI LINEA, VISTA INFRASTRUTTURA
+Totale VALORI PARAMETRO FUNZIONI GSM-R FACOLTATIVE DELLE SEZIONI DI LINEA, VISTA INFRASTRUTTURA da caricare: 3596
+ 
+--------------------------------> Caricamento GALLERIE DEI BINARI DI FERMATA DI PO
+Totale GALLERIE DEI BINARI DI FERMATA DI PO da caricare: 806
+ 
+--------------------------------> Caricamento RELAZIONE GALLERIE E BINARI DI FERMATA DI PO
+Totale RELAZIONE GALLERIE E BINARI DI FERMATA DI PO da caricare: 806
+ 
+--------------------------------> Caricamento DICHIARAZIONI GALLERIE DEI BINARI DI FERMATA DI PO
+Totale DICHIARAZIONI GALLERIE DEI BINARI DI FERMATA DI PO da caricare: 806
+ 
+   
+--------------------------------> Elenco Punti Operativi e Sezioni di Linea non acquisiti   
+   
+   
+   
+--------------------------------> Controlli Gerarchici (relazioni figli-padri)
+Totale oggetti che non hanno superato i controlli gerarchici (figli senza padri): 21
+ 
+1   :  Codice SOL/OP: LO0342 Codice Sede Tecnica: LO0342-BC-BC01 Definizione Sede Tecnica: BINARIO I Classe: CLASSE_R16000L Errore: ORA-02291: Manca la località di riferimento (binario di corsa senza PO padre)
+2   :  Codice SOL/OP: LO0342 Codice Sede Tecnica: LO0342-BC-BC02 Definizione Sede Tecnica: BINARIO II Classe: CLASSE_R16000L Errore: ORA-02291: Manca la località di riferimento (binario di corsa senza PO padre)
+3   :  Codice SOL/OP: LO2951 Codice Sede Tecnica: LO2951-BC-BC01 Definizione Sede Tecnica: BINARIO II DISPARI (FV-c. dev. Classe: CLASSE_R16000L Errore: ORA-02291: Manca la località di riferimento (binario di corsa senza PO padre)
+4   :  Codice SOL/OP: LO2951 Codice Sede Tecnica: LO2951-BC-BC02 Definizione Sede Tecnica: BINARIO I PARI (p.ta 2b-FV) Classe: CLASSE_R16000L Errore: ORA-02291: Manca la località di riferimento (binario di corsa senza PO padre)
+5   :  Codice SOL/OP: TR0494 Codice Sede Tecnica: TR0494 Definizione Sede Tecnica: TORTONA - VILLAVERNIA Classe: CLASSE_R13000 Errore: ORA-02291: Manca la località di fine nell'anagrafica delle località
+6   :  Codice SOL/OP: TR0494 Codice Sede Tecnica: TR0494-BC-BC01 Definizione Sede Tecnica: BINARIO DISPARI Classe: CLASSE_R16000T Errore: ORA-02291: Manca la tratta di riferimento (binario di corsa senza SOL padre)
+7   :  Codice SOL/OP: TR0494 Codice Sede Tecnica: TR0494-BC-BC02 Definizione Sede Tecnica: BINARIO PARI Classe: CLASSE_R16000T Errore: ORA-02291: Manca la tratta di riferimento (binario di corsa senza SOL padre)
+8   :  Codice SOL/OP: TR0877 Codice Sede Tecnica: TR0877 Definizione Sede Tecnica: MODANE-PC TERRES FROIDES Classe: CLASSE_R13000 Errore: ORA-02291: Manca la località di inizio nell'anagrafica delle località
+9   :  Codice SOL/OP: TR0877 Codice Sede Tecnica: TR0877-BC-BC01 Definizione Sede Tecnica: BINARIO DISPARI Classe: CLASSE_R16000T Errore: ORA-02291: Manca la tratta di riferimento (binario di corsa senza SOL padre)
+10  :  Codice SOL/OP: TR0877 Codice Sede Tecnica: TR0877-BC-BC02 Definizione Sede Tecnica: BINARIO PARI Classe: CLASSE_R16000T Errore: ORA-02291: Manca la tratta di riferimento (binario di corsa senza SOL padre)
+11  :  Codice SOL/OP: TR3650 Codice Sede Tecnica: TR3650 Definizione Sede Tecnica: VILLALVERNIA - CASSANO SPINOLA Classe: CLASSE_R13000 Errore: ORA-02291: Manca la località di inizio nell'anagrafica delle località
+12  :  Codice SOL/OP: TR3650 Codice Sede Tecnica: TR3650-BC-BC01 Definizione Sede Tecnica: BINARIO DISPARI Classe: CLASSE_R16000T Errore: ORA-02291: Manca la tratta di riferimento (binario di corsa senza SOL padre)
+13  :  Codice SOL/OP: TR3650 Codice Sede Tecnica: TR3650-BC-BC02 Definizione Sede Tecnica: BINARIO PARI Classe: CLASSE_R16000T Errore: ORA-02291: Manca la tratta di riferimento (binario di corsa senza SOL padre)
+14  :  Codice SOL/OP: TR6431 Codice Sede Tecnica: TR6431 Definizione Sede Tecnica: BRINDISI-TUTURANO Classe: CLASSE_R13000 Errore: ORA-02291: Manca la località di fine nell'anagrafica delle località
+15  :  Codice SOL/OP: TR6431 Codice Sede Tecnica: TR6431-BC-BC01 Definizione Sede Tecnica: BINARIO DISPARI (P.S. Br-FV Tu Classe: CLASSE_R16000T Errore: ORA-02291: Manca la tratta di riferimento (binario di corsa senza SOL padre)
+16  :  Codice SOL/OP: TR6431 Codice Sede Tecnica: TR6431-BC-BC02 Definizione Sede Tecnica: BINARIO PARI P.S.Br.\FV Tutura Classe: CLASSE_R16000T Errore: ORA-02291: Manca la tratta di riferimento (binario di corsa senza SOL padre)
+17  :  Codice SOL/OP: TR6432 Codice Sede Tecnica: TR6432 Definizione Sede Tecnica: TUTURANO-S. PIETRO VERNOTICO Classe: CLASSE_R13000 Errore: ORA-02291: Manca la località di inizio nell'anagrafica delle località
+18  :  Codice SOL/OP: TR6432 Codice Sede Tecnica: TR6432-BC-BC01 Definizione Sede Tecnica: BINARIO DISPARI Classe: CLASSE_R16000T Errore: ORA-02291: Manca la tratta di riferimento (binario di corsa senza SOL padre)
+19  :  Codice SOL/OP: TR6432 Codice Sede Tecnica: TR6432-BC-BC02 Definizione Sede Tecnica: BINARIO PARI Classe: CLASSE_R16000T Errore: ORA-02291: Manca la tratta di riferimento (binario di corsa senza SOL padre)
+20  :  Codice SOL/OP: TR7897 Codice Sede Tecnica: TR7897 Definizione Sede Tecnica: GR. SC. MESTRE ST  - LIMITE FS Classe: CLASSE_R13000 Errore: ORA-02291: Manca la località di fine nell'anagrafica delle località
+21  :  Codice SOL/OP: TR7897 Codice Sede Tecnica: TR7897-BC-BC01 Definizione Sede Tecnica: Binario Adria-Mestre Classe: CLASSE_R16000T Errore: ORA-02291: Manca la tratta di riferimento (binario di corsa senza SOL padre)
+   
+--------------------------------> Elenco Punti Operativi e Sezioni di Linea non acquisiti   
+   
+Punto Operativo non valido: BA00       LO2951       TUTURANO
+Punto Operativo non valido: GE00       LO0342       VILLALVERNIA
+   
+Sezione di Linea non valida: BA00       TR6431       BRINDISI-TUTURANO
+Sezione di Linea non valida: BA00       TR6432       TUTURANO-S. PIETRO VERNOTICO
+Sezione di Linea non valida: GE00       TR0494       TORTONA - VILLAVERNIA
+Sezione di Linea non valida: GE00       TR3650       VILLALVERNIA - CASSANO SPINOLA
+Sezione di Linea non valida: TO00       TR0877       MODANE-PC TERRES FROIDES
+Sezione di Linea non valida: VE00       TR7897       GR. SC. MESTRE ST  - LIMITE FS
+   
+--------------------------------> Elenco Sezioni di Linea Regular eliminate perché senza binari   
+   
+Sezione di Linea  Regular senza binari: AN00       TR1125       L'AQUILA SASSA N.S.I-SASSA TORNIMPARTE
+Sezione di Linea  Regular senza binari: TO00       TR3524       PC TERRES FROIDES-CONFINE FRANCESE
+  
+--------------------------------> Elenco Sezioni di Linea Link eliminate perché senza binari   
+   
