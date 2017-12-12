@@ -1,4 +1,4 @@
-Acquisizione dati (Step 2), relativo al caricamento numero 9 del 07/12/2017, scarico dati del 07/12/2017, Modello GIS relativo ai dati del 31/10/2017
+KHHAcquisizione dati (Step 2), relativo al caricamento numero 9 del 07/12/2017, scarico dati del 07/12/2017, Modello GIS relativo ai dati del 31/10/2017
  
 --------------------------------> Conteggio oggetti presenti nell'area di Staging
 DTP: AN00       Numero Punti Operativi:189
